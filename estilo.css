@@ -89,9 +89,13 @@
 .secao-contato .map-frame {
     position: absolute;
     top: 20%;
-    left: 0;
-    right: 0;
-    margin: 0 auto
+    margin: 0 auto;
+}
+
+.secao-contato .contato-dados {
+    position: absolute;
+    top: 50%;
+    margin: 0 auto;
 }
 
 .secao-sobre1,
