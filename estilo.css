@@ -83,7 +83,7 @@
 
 .container-parallax2 h3,
 .container-parallax3 h3,
-.container-parallax4 h2,
+.container-parallax4 h3,
 .contato-dados {
     position: absolute;
     background-color: #604829;
@@ -94,6 +94,7 @@
     left: 0;
     right: 0;
     margin: 0 auto;
+    width: 60%;
 }
 
 .container-parallax1 h1 {
