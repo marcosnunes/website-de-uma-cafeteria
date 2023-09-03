@@ -94,7 +94,7 @@
     left: 0;
     right: 0;
     margin: 0 auto;
-    width: 60%;
+    width: 40%;
 }
 
 .container-parallax1 h1 {
@@ -110,19 +110,18 @@
 
 .container-parallax4 .map-frame {
     position: absolute;
-    top: 10%;
+    top: 5%;
     margin: 0 auto;
 }
 
 .container-parallax4 h3 {
     position: absolute;
-    top: 5%;
     margin: 0 auto;
 }
 
 
 .container-parallax4 .contato-dados {
     position: absolute;
-    top: 90%;
+    top: 80%;
     margin: 0 auto;
 }
