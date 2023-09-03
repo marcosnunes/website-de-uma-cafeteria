@@ -88,10 +88,8 @@
 
 .secao-contato .map-frame {
     position: absolute;
-    top: 15%;
-    margin: 0 auto;
-    width: 800px;
-    height: 300px;
+    top: 20%;
+    margin: 0 auto
 }
 
 .secao-sobre1,
