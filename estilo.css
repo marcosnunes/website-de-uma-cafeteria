@@ -41,6 +41,9 @@
 
 .secao-banner {
     background-image: url('assets/parallax-imagem1.png');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .secao-banner,
