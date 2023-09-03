@@ -30,7 +30,6 @@
 
 }
 
-.secao-banner img,
 .secao-paralax1 img,
 .secao-paralax2 img,
 .secao-paralax3 img,
@@ -104,7 +103,7 @@
     margin: 0 auto;
 }
 
-.secao-sobre1,
+.secao-banner,
 .secao-sobre2,
 .secao-sobre3 {
     background-color: #fff;
@@ -112,14 +111,14 @@
     margin: 60px auto;
 }
 
-.secao-sobre1 h2,
+.secao-banner h2,
 .secao-sobre2 h2,
 .secao-sobre3 h2 {
     text-align: center;
     color: #c4a47c;
 }
 
-.secao-sobre1 p,
+.secao-banner p,
 .secao-sobre2 p,
 .secao-sobre3 p {
     text-align: center;
