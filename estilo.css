@@ -46,10 +46,6 @@
     position: relative;
 }
 
-.secao-banner {
-    top: 65px;
-}
-
 .secao-banner h1 {
     position: absolute;
     color: #fff;
