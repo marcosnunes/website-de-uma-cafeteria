@@ -41,6 +41,10 @@
     width: 100%;
 }
 
+.secao-banner img {
+    top: 70px;
+}
+
 .secao-banner,
 .secao-paralax1,
 .secao-paralax2,
