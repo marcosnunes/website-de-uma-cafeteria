@@ -86,6 +86,13 @@
     top: 10%;
 }
 
+.secao-contato .map-frame {
+    top: 15%;
+    margin: 0 auto;
+    width: 800px;
+    height: 300px;
+}
+
 .secao-sobre1,
 .secao-sobre2,
 .secao-sobre3 {
