@@ -32,8 +32,16 @@
 
 }
 
-.secao-cafeteria img,
-.secao-contato img {
+.container-texto {
+    padding: 80px 80px;
+    font-size: 16px;
+    line-height: 34px;
+    text-align: center;
+    color: #666;
+ }
+
+.secao-contato img,
+.secao-cafeteria img {
     width: 100%;
 }
 
