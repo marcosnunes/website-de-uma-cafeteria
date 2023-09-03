@@ -39,6 +39,10 @@
     width: 100%;
 }
 
+.secao-banner {
+    background-image: assets/parallax-imagem1.png;
+}
+
 .secao-banner,
 .secao-paralax1,
 .secao-paralax2,
