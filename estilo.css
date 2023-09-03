@@ -36,8 +36,8 @@
     background-color: #fff;
     width: 100%;
     margin: 60px auto;
- }
- 
+}
+
 .container-texto h2 {
     text-align: center;
     color: #c4a47c;
@@ -48,10 +48,6 @@
     color: #666;
     width: 800px;
     margin: 0 auto;
-}
-
-.secao-cafeteria img {
-    width: 100%;
 }
 
 .container-parallax1 {
@@ -70,15 +66,27 @@
     background-image: url('assets/parallax-imagem4.png');
 }
 
+.container-horarios {
+    background-image: url('assets/cafeteria.jpg');
+}
+
 .container-parallax1,
 .container-parallax2,
 .container-parallax3,
 .container-parallax4 {
-   position: relative;
-   background-position: center;
-   background-size: cover;
-   background-attachment: fixed;
-   height: 100vh;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.container-horarios {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+    height: 100vh;
 }
 
 .container-parallax2 h3,
@@ -110,8 +118,9 @@
 
 .container-parallax4 .map-frame {
     position: absolute;
-    top: 5%;
-    margin: 0 auto;
+    top: 15%;
+    display: flex;
+    justify-content: center;
 }
 
 .container-parallax4 h3 {
@@ -120,9 +129,39 @@
     margin: 0 auto;
 }
 
-
 .container-parallax4 .contato-dados {
     position: absolute;
     top: 80%;
     margin: 0 auto;
+}
+
+.container-rodape {
+    color: #fff;
+    text-align: center;
+    font-family: 'Fraunces', serif;
+    width: 100%;
+    height: 70px;
+    background-color: #000;
+}
+
+.container-horarios {
+    position: relative;
+}
+
+.container-lista-horarios {
+    position: absolute;
+    top: 10%;
+    color: #fff;
+}
+
+.lista li {
+    display: flex;
+}
+
+.lista h3 {
+    text-align: left;
+}
+
+.lista p {
+    text-align: right;
 }
