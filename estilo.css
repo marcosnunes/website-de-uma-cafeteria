@@ -52,17 +52,6 @@
     background-attachment: fixed;
 }
 
-.container-paralax1 h1 {
-    position: absolute;
-    color: #fff;
-    text-align: center;
-    font-family: 'Fraunces', serif;
-    top: 45%;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
-}
-
 .container-palalax2 {
     background-image: url('assets/parallax-imagem2.png');
     background-position: center;
