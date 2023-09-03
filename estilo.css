@@ -45,14 +45,14 @@
     width: 100%;
 }
 
-.secao-banner {
+.container-paralax1 {
     background-image: url('assets/parallax-imagem1.png');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
 
-.secao-banner h1 {
+.container-paralax1 h1 {
     position: absolute;
     color: #fff;
     text-align: center;
@@ -63,15 +63,22 @@
     margin: 0 auto;
 }
 
-.secao-palalax1 {
+.container-palalax2 {
     background-image: url('assets/parallax-imagem2.png');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
 
-.secao-palalax2 {
+.container-palalax3 {
     background-image: url('assets/parallax-imagem3.png');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container-palalax4 {
+    background-image: url('assets/parallax-imagem4.png');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
