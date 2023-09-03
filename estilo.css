@@ -108,25 +108,21 @@
     margin: 0 auto;
 }
 
-.container-parallax4 h2 {
-    top: 10%;
-}
-
 .container-parallax4 .map-frame {
     position: absolute;
-    top: 20%;
+    top: 10%;
     margin: 0 auto;
 }
 
 .container-parallax4 h3 {
     position: absolute;
-    top: 10%;
+    top: 5%;
     margin: 0 auto;
 }
 
 
 .container-parallax4 .contato-dados {
     position: absolute;
-    top: 80%;
+    top: 90%;
     margin: 0 auto;
 }
