@@ -70,7 +70,7 @@
 }
 
 .secao-contato h2,
-.secao-contato p {
+.contato-dados {
     position: absolute;
     background-color: #604829;
     color: #fff;
