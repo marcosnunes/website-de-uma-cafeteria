@@ -177,14 +177,14 @@ span {
     text-align: center;
     font-family: 'Fraunces', serif;
     width: 100%;
-    height: 70px;
+    height: 80px;
     background-color: #000;
 }
 
 .container-rodape a {
+    position: absolute;
     width: 60px;
     height: 60px;
-    position: absolute;
     right: 50px;
     bottom: 80px;
 }
