@@ -40,7 +40,7 @@
 }
 
 .secao-banner {
-    background-image: assets/parallax-imagem1.png;
+    background-image: url('assets/parallax-imagem1.png');
 }
 
 .secao-banner,
