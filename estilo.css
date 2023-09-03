@@ -38,9 +38,23 @@
     line-height: 34px;
     text-align: center;
     color: #666;
+    background-color: #fff;
+    width: 100%;
+    margin: 60px auto;
  }
+ 
+.container-texto h2 {
+    text-align: center;
+    color: #c4a47c;
+}
 
-.secao-contato img,
+.container-texto p {
+    text-align: center;
+    color: #666;
+    width: 800px;
+    margin: 0 auto;
+}
+
 .secao-cafeteria img {
     width: 100%;
 }
@@ -88,38 +102,14 @@
     top: 10%;
 }
 
-.secao-contato .map-frame {
+.container-palalax4 .map-frame {
     position: absolute;
     top: 20%;
     margin: 0 auto;
 }
 
-.secao-contato .contato-dados {
+.container-palalax4 .contato-dados {
     position: absolute;
     top: 70%;
-    margin: 0 auto;
-}
-
-.secao-sobre1,
-.secao-sobre2,
-.secao-sobre3 {
-    background-color: #fff;
-    width: 100%;
-    margin: 60px auto;
-}
-
-.secao-sobre1 h2,
-.secao-sobre2 h2,
-.secao-sobre3 h2 {
-    text-align: center;
-    color: #c4a47c;
-}
-
-.secao-sobre1 p,
-.secao-sobre2 p,
-.secao-sobre3 p {
-    text-align: center;
-    color: #666;
-    width: 800px;
     margin: 0 auto;
 }
