@@ -1,0 +1,109 @@
+.secao-topo {
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    background-color: #604829;
+}
+
+.secao-topo img {
+    position: absolute;
+    height: 70px;
+    left: 15%;
+}
+
+.menu-navegacao {
+    position: absolute;
+    top: 35%;
+    right: 15%;
+}
+
+.menu-navegacao a {
+    color: #c4a47c;
+    height: 30px;
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 2px 2px 2px #000;
+    padding: 0 20px;
+    text-decoration: none;
+
+}
+
+.secao-banner img,
+.secao-sobre1 img,
+.secao-sobre2 img,
+.secao-sobre3 img,
+.secao-cafeteria img,
+.secao-contato img {
+    width: 100%;
+}
+
+.secao-banner,
+.secao-paralax1,
+.secao-paralax2,
+.secao-contato {
+    position: relative;
+    
+}
+
+.secao-banner h1 {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    font-family: 'Fraunces', serif;
+    top: 45%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.secao-paralax1 h3,
+.secao-paralax2 h3 {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    font-family: 'Fraunces', serif;
+    top: 45%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.secao-contato h2,
+.secao-contato p {
+    position: absolute;
+    background-color: #604829;
+    color: #fff;
+    text-align: center;
+    font-family: 'Fraunces', serif;
+    width: 30%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.secao-contato h2 {
+    top: 10%;
+}
+
+.secao-sobre1,
+.secao-sobre2,
+.secao-sobre3 {
+    background-color: #fff;
+    width: 100%;
+}
+
+.secao-sobre1 h2,
+.secao-sobre2 h2,
+.secao-sobre3 h2 {
+    text-align: center;
+    color: #c4a47c;
+}
+
+.secao-sobre1 p,
+.secao-sobre2 p,
+.secao-sobre3 p {
+    text-align: center;
+    color: #666;
+    width: 800px;
+    margin: 0 auto;
+}
