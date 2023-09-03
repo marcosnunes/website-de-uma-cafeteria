@@ -31,9 +31,9 @@
 }
 
 .secao-banner img,
-.secao-sobre1 img,
-.secao-sobre2 img,
-.secao-sobre3 img,
+.secao-paralax1 img,
+.secao-paralax2 img,
+.secao-paralax3 img,
 .secao-cafeteria img,
 .secao-contato img {
     width: 100%;
@@ -44,7 +44,6 @@
 .secao-paralax2,
 .secao-contato {
     position: relative;
-    width: 100%;
 }
 
 .secao-banner h1 {
