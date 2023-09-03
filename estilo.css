@@ -31,7 +31,6 @@
 }
 
 .container-texto {
-    
     font-size: 16px;
     line-height: 34px;
     text-align: center;
@@ -61,15 +60,15 @@
     background-image: url('assets/parallax-imagem1.png');
 }
 
-.container-palallax2 {
+.container-parallax2 {
     background-image: url('assets/parallax-imagem2.png');
 }
 
-.container-palallax3 {
+.container-parallax3 {
     background-image: url('assets/parallax-imagem3.png');
 }
 
-.container-palallax4 {
+.container-parallax4 {
     background-image: url('assets/parallax-imagem4.png');
 }
 
@@ -83,9 +82,9 @@
    background-attachment: fixed;
 }
 
-.container-palallax2 h3,
-.container-palallax3 h3,
-.container-palallax4 h2,
+.container-parallax2 h3,
+.container-parallax3 h3,
+.container-parallax4 h2,
 .contato-dados {
     position: absolute;
     background-color: #604829;
@@ -109,17 +108,17 @@
     margin: 0 auto;
 }
 
-.container-palallax4 h2 {
+.container-parallax4 h2 {
     top: 10%;
 }
 
-.container-palallax4 .map-frame {
+.container-parallax4 .map-frame {
     position: absolute;
     top: 20%;
     margin: 0 auto;
 }
 
-.container-palallax4 .contato-dados {
+.container-parallax4 .contato-dados {
     position: absolute;
     top: 70%;
     margin: 0 auto;
