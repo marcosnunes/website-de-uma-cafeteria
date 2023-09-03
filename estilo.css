@@ -135,7 +135,35 @@
     margin: 0 auto;
 }
 
+.container-lista-horarios {
+    position: absolute;
+    top: 10%;
+    color: #fff;
+}
+
+.lista li {
+    position: relative;
+    display: flex;
+}
+
+.lista li p {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+span {
+    color: #c4a47c;
+}
+
+.lista li div{
+    width: 70%;
+    height: 1px;
+    background-color: #acacac;
+}
+
 .container-rodape {
+    position: relative;
     color: #fff;
     text-align: center;
     font-family: 'Fraunces', serif;
@@ -144,24 +172,10 @@
     background-color: #000;
 }
 
-.container-horarios {
-    position: relative;
-}
-
-.container-lista-horarios {
+.container-rodape a {
+    width: 60px;
+    height: 60px;
     position: absolute;
-    top: 10%;
-    color: #fff;
-}
-
-.lista li {
-    display: flex;
-}
-
-.lista h3 {
-    text-align: left;
-}
-
-.lista p {
-    text-align: right;
+    right: 50px;
+    bottom: 80px;
 }
