@@ -80,6 +80,7 @@
    background-position: center;
    background-size: cover;
    background-attachment: fixed;
+   height: 100vh;
 }
 
 .container-parallax2 h3,
@@ -91,7 +92,7 @@
     color: #fff;
     text-align: center;
     font-family: 'Fraunces', serif;
-    width: 45%;
+    top: 45%;
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -102,7 +103,7 @@
     color: #fff;
     text-align: center;
     font-family: 'Fraunces', serif;
-    width: 45%;
+    top: 45%;
     left: 0;
     right: 0;
     margin: 0 auto;
