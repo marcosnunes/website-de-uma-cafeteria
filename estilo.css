@@ -103,7 +103,7 @@
     margin: 0 auto;
 }
 
-.secao-banner,
+.secao-sobre1,
 .secao-sobre2,
 .secao-sobre3 {
     background-color: #fff;
@@ -111,14 +111,14 @@
     margin: 60px auto;
 }
 
-.secao-banner h2,
+.secao-sobre1 h2,
 .secao-sobre2 h2,
 .secao-sobre3 h2 {
     text-align: center;
     color: #c4a47c;
 }
 
-.secao-banner p,
+.secao-sobre1 p,
 .secao-sobre2 p,
 .secao-sobre3 p {
     text-align: center;
