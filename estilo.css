@@ -127,8 +127,7 @@
 .container-parallax4 .map-frame {
     position: absolute;
     top: 15%;
-    display: flex;
-    justify-content: center;
+    margin: 0 auto;
 }
 
 .container-parallax4 h3 {
@@ -147,6 +146,7 @@
     position: absolute;
     top: 10%;
     color: #fff;
+    margin: 0 auto;
 }
 
 .lista li {
