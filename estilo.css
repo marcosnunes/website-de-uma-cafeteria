@@ -41,15 +41,12 @@
     width: 100%;
 }
 
-.secao-banner img {
-    top: 70px;
-}
-
 .secao-banner,
 .secao-paralax1,
 .secao-paralax2,
 .secao-contato {
     position: relative;
+    top: 70px;
     
 }
 
