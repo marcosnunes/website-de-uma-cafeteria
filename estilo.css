@@ -47,42 +47,28 @@
 
 .container-paralax1 {
     background-image: url('assets/parallax-imagem1.png');
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
 }
 
 .container-palalax2 {
     background-image: url('assets/parallax-imagem2.png');
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
 }
 
 .container-palalax3 {
     background-image: url('assets/parallax-imagem3.png');
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
 }
 
 .container-palalax4 {
     background-image: url('assets/parallax-imagem4.png');
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
 }
 
-.secao-paralax1 h3,
-.secao-paralax2 h3 {
-    position: absolute;
-    color: #fff;
-    text-align: center;
-    font-family: 'Fraunces', serif;
-    top: 45%;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
+.container-parallax1,
+.container-parallax2,
+.container-parallax3,
+.container-parallax4 {
+   position: relative;
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
 }
 
 .secao-contato h2,
