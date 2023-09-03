@@ -1,4 +1,6 @@
-
+#topo {
+    position: fixed;
+}
 
 .secao-topo {
     position: relative;
@@ -45,12 +47,6 @@
     background-attachment: fixed;
 }
 
-.secao-paralax1,
-.secao-paralax2,
-.secao-contato {
-    position: relative;
-}
-
 .secao-banner h1 {
     position: absolute;
     color: #fff;
@@ -60,7 +56,12 @@
     left: 0;
     right: 0;
     margin: 0 auto;
-    height: 100%;
+}
+
+.secao-paralax1,
+.secao-paralax2,
+.secao-contato {
+    position: relative;
 }
 
 .secao-paralax1 h3,
