@@ -31,7 +31,7 @@
 }
 
 .container-texto {
-    padding: 80px 80px;
+    
     font-size: 16px;
     line-height: 34px;
     text-align: center;
@@ -61,8 +61,6 @@
     background-image: url('assets/parallax-imagem1.png');
 }
 
-.c
-
 .container-palallax2 {
     background-image: url('assets/parallax-imagem2.png');
 }
@@ -85,10 +83,23 @@
    background-attachment: fixed;
 }
 
+.container-palallax2 h3,
+.container-palallax3 h3,
 .container-palallax4 h2,
 .contato-dados {
     position: absolute;
     background-color: #604829;
+    color: #fff;
+    text-align: center;
+    font-family: 'Fraunces', serif;
+    width: 45%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.container-parallax1 h1 {
+    position: absolute;
     color: #fff;
     text-align: center;
     font-family: 'Fraunces', serif;
