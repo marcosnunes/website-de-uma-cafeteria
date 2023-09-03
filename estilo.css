@@ -1,5 +1,12 @@
+/* Efeitos Globais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .secao-topo {
-    position: relative;
+    position: fixed;
     top: 0;
     width: 100%;
     height: 70px;
@@ -7,7 +14,7 @@
 }
 
 .secao-topo img {
-    position: absolute;
+    position: relative;
     height: 70px;
     left: 15%;
 }
@@ -52,6 +59,7 @@
 
 .container-parallax1 {
     background-image: url('assets/parallax-imagem1.png');
+    top: 60px;
 }
 
 .container-parallax2 {
