@@ -125,10 +125,12 @@
     margin: 0 auto;
 }
 
-.container-parallax4 .map-frame {
+.container-parallax4 div iframe {
     position: absolute;
     top: 15%;
     margin: 0 auto;
+    left: 0;
+    right: 0;
 }
 
 .container-parallax4 h3 {
@@ -143,16 +145,21 @@
     margin: 0 auto;
 }
 
-.container-lista-horarios {
+.container-horarios div {
     position: absolute;
-    top: 10%;
+    top: 15%;
     color: #fff;
     margin: 0 auto;
+    width: 45%;
+    line-height: 50px;
+    left: 0;
+    right: 0;
 }
 
 .lista li {
     position: relative;
     display: flex;
+    align-items: center;
 }
 
 .lista li p {
@@ -165,7 +172,7 @@ span {
     color: #c4a47c;
 }
 
-.lista li div{
+.lista li div {
     width: 70%;
     height: 1px;
     background-color: #acacac;
